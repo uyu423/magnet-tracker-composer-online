@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/uyu423/magnet-tracker-composer-online#readme",
   "dependencies": {
-    "next": "^9.1.4",
+    "next": "^9.3.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
